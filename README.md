@@ -8,4 +8,4 @@
 <h2>Chicago Salary: https://www.chicago.gov/city/en/depts/dhr/dataset/</h2>
 <h2>Superstore Data: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final</h2>
 
-<h2>For an interactive Tableau dashboard, plese visit https://public.tableau.com/app/profile/bryan2187/vizzes</h2>
+<h2>For an interactive Tableau dashboards, plese visit https://public.tableau.com/app/profile/bryan2187/vizzes</h2>
