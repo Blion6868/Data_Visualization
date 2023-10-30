@@ -2,7 +2,7 @@
 
 <h1>Motivation</h1>
 
-<h2>These Tableau dashboards and Jupyter notebooks demonstrate my ability to not only use Tableau, Matplotlib, and Seaborn but also visualize data. </h2>
+<h2>These Tableau dashboards and Jupyter notebooks demonstrate my ability to visualize data. </h2>
 
 <h1>DATA SOURCES</h1>
 <h2>Chicago Salary Data: https://www.chicago.gov/city/en/depts/dhr/dataset/</h2>
